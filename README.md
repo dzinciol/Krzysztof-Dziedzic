@@ -1,2 +1,2 @@
-# Krzysztof-Dziedzic
-My tester's portfolio
+# Portfolio
+## About me
