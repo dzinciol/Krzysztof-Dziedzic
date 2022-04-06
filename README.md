@@ -23,6 +23,10 @@ I know that this is just the beginning of a new, exciting adventure that I would
 * Reporting bugs via tools mentioned above
 * Knowledge of the ISTQB - Foundation Level (fingers crossed that I will be able to add it to the certificate list by the end of May (2022))
 
+## Interpersonal skills
+
+* Customer service specialist for many years so I know how to communicate bad things in a calm, reasonable way (will be crucial as I will be working with the developers)
+
 ## Certificates
 
 * Future Collars 
