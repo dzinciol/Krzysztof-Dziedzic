@@ -26,4 +26,4 @@ I know that this is just the beginning of a new, exciting adventure that I would
 ## Certificates
 
 * Future Collars 
-* *[Podstawy manualnego testowania oprogramowania] (https://www.udemy.com/certificate/UC-22cdf9b1-cc2d-48e1-a99d-29777035cbea/)* - Udemy
+* *[Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-22cdf9b1-cc2d-48e1-a99d-29777035cbea/)* - Udemy
