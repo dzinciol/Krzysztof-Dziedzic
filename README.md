@@ -1,4 +1,5 @@
 # Portfolio
+
 ## A little bit about me
 
 My name is Krzysztof Dziedzic. I graduated from Teachers' Training College. It has been one of the most important adventures in my life as it prepared me well to the world where English language provides me with access to almost unlimited power (in Emperor's Palpatine voice) - the ability to search for data in English.
@@ -9,5 +10,6 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 
 ## Tools
+
 * Jira, Xray Test Management for Jira, Azure DevOps - Issue tracking and project management tool for developers
 * Postman - Testing tool for REST API
