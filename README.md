@@ -13,3 +13,17 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 * Jira, Xray Test Management for Jira, Azure DevOps - Issue tracking and project management tool for developers
 * Postman - Testing tool for REST API
+
+## Tech skills
+
+* SQL (beginners level)
+* SCRUM - knowledge of 
+* Manual software testing
+* Creating test cases, test runs
+* Reporting bugs via tools mentioned above
+* Knowledge of the ISTQB - Foundation Level (fingers crossed that I will be able to add it to the certificate list by the end of May (2022))
+
+## Certificates
+
+* Future Collars 
+* Podstawy manualnego testowania oprogramowania - Udemy
