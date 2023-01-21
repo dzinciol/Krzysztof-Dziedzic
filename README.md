@@ -27,6 +27,11 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 * Customer service specialist for many years so I know how to communicate bad things in a calm, reasonable way (will be crucial as I will be working with the developers)
 
+## My test case examples
+
+https://docs.google.com/spreadsheets/d/1TJCfj2ALW1Vcz33KpPkkKQNs_mKIgaBQPCbwVi4LbqM/edit?usp=sharing
+
+
 ## Certificates
 
 * *[Future Collars](https://drive.google.com/file/d/1roqYGAy_3nl8qxEtILGKYjLpaQeyYb6i/view)* - bootcamp manual software tester
