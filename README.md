@@ -39,3 +39,6 @@ I know that this is just the beginning of a new, exciting adventure that I would
 * *[SQL od podstaw](https://www.udemy.com/certificate/UC-b62b5e30-bd4f-460e-a5fc-96f2ce52c692/)* - Udemy
 * *[Jira od podstaw - zarządzanie projektami](https://www.udemy.com/certificate/UC-80e5921d-9320-4b5b-bf06-24c0e366727a/)* - Udemy
 
+## My projects
+
+
