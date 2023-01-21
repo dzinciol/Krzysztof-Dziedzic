@@ -29,7 +29,7 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 ## My test case examples
 
-* *[Allegro Smart - test cases for a free delivery on allegro.pl]([https://drive.google.com/file/d/1roqYGAy_3nl8qxEtILGKYjLpaQeyYb6i/view](https://docs.google.com/spreadsheets/d/1TJCfj2ALW1Vcz33KpPkkKQNs_mKIgaBQPCbwVi4LbqM/edit?usp=sharing))* 
+* *[Allegro Smart - test cases for a free delivery on allegro.pl](https://docs.google.com/spreadsheets/d/1TJCfj2ALW1Vcz33KpPkkKQNs_mKIgaBQPCbwVi4LbqM/edit?usp=sharing)* 
 
 
 ## Certificates
