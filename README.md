@@ -34,6 +34,7 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 ## Certificates
 
+* *[ISTQB - foundation level] (ISTQB.pdf)
 * *[Future Collars](https://drive.google.com/file/d/1roqYGAy_3nl8qxEtILGKYjLpaQeyYb6i/view)* - bootcamp manual software tester
 * *[Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-22cdf9b1-cc2d-48e1-a99d-29777035cbea/)* - Udemy
 * *[SQL od podstaw](https://www.udemy.com/certificate/UC-b62b5e30-bd4f-460e-a5fc-96f2ce52c692/)* - Udemy
