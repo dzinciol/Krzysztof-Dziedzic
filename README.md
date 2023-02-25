@@ -21,7 +21,7 @@ I know that this is just the beginning of a new, exciting adventure that I would
 * Manual software testing
 * Creating test cases, test runs
 * Reporting bugs via tools mentioned above
-* Knowledge of the ISTQB - Foundation Level - I have already signed up for an exam so hopefully I will have my certificate by the end of February
+* ISTQB - Foundation Level 
 
 ## Interpersonal skills
 
