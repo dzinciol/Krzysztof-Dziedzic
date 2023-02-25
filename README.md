@@ -11,8 +11,8 @@ I know that this is just the beginning of a new, exciting adventure that I would
 
 ## Tools
 
-* Jira, Xray Test Management for Jira, Azure DevOps - Issue tracking and project management tool for developers
-* Postman - Testing tool for REST API
+* Jira, Xray Test Management for Jira, Azure DevOps - issue tracking and project management tools for developers
+* Postman - a testing tool for REST API
 
 ## Tech skills
 
